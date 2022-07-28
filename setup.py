@@ -9,7 +9,7 @@ setup(
     author_email='almohammedahmed23@gmail.com',
     packages=find_packages('src'),
     package_dir={'': 'src'},
-    url='https://github.com/gmyrianthous/example-publish-pypi',
+    url='https://github.com/Eng-Ahmad-Almohammad/pypi-test',
     keywords='example project',
     install_requires=[],
 
