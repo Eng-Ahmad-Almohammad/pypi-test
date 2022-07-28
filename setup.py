@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='example_publish_pypi_devterminal',
-    version='0.0',
+    version='0.1',
     license='MIT',
     author="Ahmad Almohammad",
     author_email='almohammedahmed23@gmail.com',
