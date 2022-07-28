@@ -6,6 +6,7 @@ authors = ["Eng-Ahmad-Almohammad <almohammedahmed2@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+twine = "^4.0.1"
 
 [tool.poetry.dev-dependencies]
 
